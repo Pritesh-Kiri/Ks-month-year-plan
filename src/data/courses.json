@@ -1,0 +1,262 @@
+{
+  "CourseData": [
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381314/kickstarter/courses/Magic_oqbdep.png",
+      "title": "Magic 101",
+      "coachname": "Kunal Newar",
+      "category": "Vocational",
+      "Featured": ""
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381312/kickstarter/courses/Career_Planning1_a6g28p.jpg",
+      "title": "Career Planning - Create your profile and get your dream job",
+      "coachname": "Louise Moseeline",
+      "category": "Vocational",
+      "Featured": ""
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381314/kickstarter/courses/Softskills1_y1yak5.jpg",
+      "title": "Soft Skills - Setting your attitude to shape your future",
+      "coachname": "Narayanan S",
+      "category": "Vocational",
+      "Featured": ""
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381314/kickstarter/courses/Psychology_snxfni.jpg",
+      "title": "Psychology: Mind and Behaviour",
+      "coachname": "Harshita Lalchand",
+      "category": "Vocational",
+      "Featured": true
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381315/kickstarter/courses/Adobe_tuts_jisp5o.jpg",
+      "title": "Graphic Design - Adobe Photoshop Tutorials",
+      "coachname": "Shanica Roy",
+      "category": "Vocational",
+      "Featured": true
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381314/kickstarter/courses/Softskills2_cnvnzi.jpg",
+      "title": "Soft skills- Leadership and interpersonal skills",
+      "coachname": "Narayanan S",
+      "category": "Vocational",
+      "Featured": ""
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381315/kickstarter/courses/Web_Audit_yuvd4q.jpg",
+      "title": "Website Audit & Google search console",
+      "coachname": "Ishan Singh",
+      "category": "Marketing",
+      "Featured": ""
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381314/kickstarter/courses/Miguel_vg4g5e.jpg",
+      "title": "Marketing Management: Product, Price & Distribution",
+      "coachname": "Miguel Magalhães",
+      "category": "Marketing",
+      "Featured": ""
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381313/kickstarter/courses/Contetn_Writing_xsnscd.png",
+      "title": "Content Writing - Personal Branding",
+      "coachname": "Nishtha Gehija",
+      "category": "Marketing",
+      "Featured": true
+    },
+
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381314/kickstarter/courses/Miguel_2_lipual.jpg",
+      "title": "Marketing Management: How to do Market analysis",
+      "coachname": "Miguel Magalhães",
+      "category": "Marketing",
+      "Featured": ""
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381314/kickstarter/courses/SEM_yipr7f.jpg",
+      "title": "Search Engine Marketing (SEM)",
+      "coachname": "Ishan Singh",
+      "category": "Marketing",
+      "Featured": ""
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381313/kickstarter/courses/Design-Thinking_juihul.jpg",
+      "title": "Design Thinking ",
+      "coachname": "Aruna Shekar",
+      "category": "Management",
+      "Featured": ""
+    },
+
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381315/kickstarter/courses/Stock-Market_flxocp.jpg",
+      "title": "Stock Market and Finance - Understanding the art of stock picking",
+      "coachname": "Himanshu Raghani",
+      "category": "Management",
+      "Featured": ""
+    },
+
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381314/kickstarter/courses/Operations_Management_bwt3s0.jpg",
+      "title": "Operations Management",
+      "coachname": "Priya Alhuwalia",
+      "category": "Management",
+      "Featured": ""
+    },
+
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381314/kickstarter/courses/Product_Development_c9zula.jpg",
+      "title": "Product Development - Product Ideation & Storyboard",
+      "coachname": "Zahin Hussain",
+      "category": "Management",
+      "Featured": true
+    },
+
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381314/kickstarter/courses/Public_Relations_chux4r.jpg",
+      "title": "Public Relations: Career building & Media relations",
+      "coachname": "Pooja Pathak",
+      "category": "Management",
+      "Featured": ""
+    },
+
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381313/kickstarter/courses/Industrial_IoT_IIoT_ahj9zv.jpg",
+      "title": "Industrial IoT - Embedded Development - Hardware and Software introduction",
+      "coachname": "Praveen S",
+      "category": "Management",
+      "Featured": ""
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381313/kickstarter/courses/Ethical_Hacking_nzdd9k.jpg",
+      "title": "Ethical Hacking - Information Gathering, Footprinting, and Recon",
+      "coachname": "Urevesh Thakkar",
+      "category": "Software",
+      "Featured": true
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381313/kickstarter/courses/Game_Development_eq4gkd.jpg",
+      "title": "Game Development - Introduction to 3D World Design",
+      "coachname": "Imran Khan",
+      "category": "Software",
+      "Featured": true
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381312/kickstarter/courses/Cyber_Security_iihcuy.jpg",
+      "title": " Cyber Security - Malwares",
+      "coachname": "Vishal Dave",
+      "category": "Software",
+      "Featured": ""
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381312/kickstarter/courses/AWS_Cloud_Computing__d4t1bq.jpg",
+      "title": "AWS Cloud Computing -  Database on AWS and self practice",
+      "coachname": "Tarun Vakkalagadda",
+      "category": "Software",
+      "Featured": ""
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381313/kickstarter/courses/Introduction_to_Tensorflow__wz7evn.jpg",
+      "title": "Introduction to Tensorflow ",
+      "coachname": "Deepali Vora",
+      "category": "Software",
+      "Featured": ""
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381313/kickstarter/courses/Linux_h8tnxr.jpg",
+      "title": "Linux - Baisc Commands for Beginners",
+      "coachname": "Vishal Dave",
+      "category": "Software",
+      "Featured": ""
+    },
+
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381315/kickstarter/courses/Artificial_Intelligence_jdkgbo.jpg",
+      "title": "Artificial Intelligence - Introduction to Pandas",
+      "coachname": "Tusha Dhyani",
+      "category": "Coding",
+      "Featured": ""
+    },
+
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381312/kickstarter/courses/C_Arrays_s3wj7q.jpg",
+      "title": "C++ Arrays, Structures and Functions",
+      "coachname": "Rohan Mathur",
+      "category": "Coding",
+      "Featured": ""
+    },
+
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381314/kickstarter/courses/Python_Tutorials_tq3vxq.jpg",
+      "title": "Python Tutorials with introduction to Turtle & Twilio",
+      "coachname": "Manasa Kota",
+      "category": "Coding",
+      "Featured": true
+    },
+
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381312/kickstarter/courses/C_a1yfbx.jpg",
+      "title": "C++ - Diving into C",
+      "coachname": "Rohan Mathur",
+      "category": "Coding",
+      "Featured": ""
+    },
+
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381315/kickstarter/courses/Web_Development_hqdydx.jpg",
+      "title": "Web Development: Javascript",
+      "coachname": "Anamika Pal",
+      "category": "Coding",
+      "Featured": ""
+    },
+
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381313/kickstarter/courses/Introduction_to_Java_vq7j3v.jpg",
+      "title": "Introduction to Java - Full guide",
+      "coachname": "Manasa Kota",
+      "category": "Coding",
+      "Featured": true
+    },
+
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381315/kickstarter/courses/Pygame_Tutoriel_e00ybu.jpg",
+      "title": "Pygame Tutoriel- A gaming module in Python",
+      "coachname": "Manasa Kota",
+      "category": "Data",
+      "Featured": ""
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381312/kickstarter/courses/Course_106__Big_Data_qekpoj.jpg",
+      "title": "Big Data -  Introduction NoSQL Databases",
+      "coachname": "Sanjoy Chowdhary",
+      "category": "Data",
+      "Featured": ""
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381312/kickstarter/courses/AWS_Cloud_Computing__d4t1bq.jpg",
+      "title": "AWS Cloud Computing -  Database on AWS and self practice",
+      "coachname": "Tarun Vakkalagadda",
+      "category": "Data",
+      "Featured": ""
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381312/kickstarter/courses/Data_Science_kjnlnv.jpg",
+      "title": "Data Science: Introduction",
+      "coachname": "Nikanksha Jain",
+      "category": "Data",
+      "Featured": ""
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381315/kickstarter/courses/Statistics__hkrw8h.jpg",
+      "title": "Statistics",
+      "coachname": "Shubhra Gupta",
+      "category": "Data",
+      "Featured": true
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658381312/kickstarter/courses/Big_Data_zaoeop.jpg",
+      "title": "Big Data - Hadoop as a platform for managing Big Data",
+      "coachname": "Sanjoy Chowdhary",
+      "category": "Data",
+      "Featured": true
+    }
+  ]
+}

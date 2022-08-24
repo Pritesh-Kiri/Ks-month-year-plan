@@ -1,0 +1,19 @@
+{
+  "CoachData": [
+    {
+      "background": "one",
+      "title": "Develop A Game Using Python",
+      "subtitle": "Create a Pygame that touch base with your python and explains basic functionality of any game."
+    },
+    {
+      "background": "two",
+      "title": "Learn Magic Tricks",
+      "subtitle": "Start learning the fundamentals of magic to become a professional magician or to wow your family and friends."
+    },
+    {
+      "background": "three",
+      "title": "Jumpstart Your Stock Trading Journey",
+      "subtitle": "Learn proven methods of successful investing and personal finance."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "TestimonialData": [
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1657624548/kickstarter/138262629-man-icon-profile-member-user-perconal-symbol-vector-on-white-isolated-background-_jgvq7l.webp",
+      "customer": "Manoj Kumar Jena",
+      "designation": "Student",
+      "review": "It's really an amazing medium to boost your professional skills. Students seeking for early access to the professional world, are highly recommended to visit this E- learning platform and get engaged with its quality teaching and training mode."
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1657624548/kickstarter/138262629-man-icon-profile-member-user-perconal-symbol-vector-on-white-isolated-background-_jgvq7l.webp",
+      "customer": "Sathwik Reddy",
+      "designation": "Interning @   REACH Technologies",
+      "review": "Learning about Entrepreneurship is out of my zone and also a new experience. The courses drive you about Entrepreneurship from scratch. The purchase helped me to learn different skills in a Business like Sales, Marketing, and how to get optimal results."
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1657624548/kickstarter/138262629-man-icon-profile-member-user-perconal-symbol-vector-on-white-isolated-background-_jgvq7l.webp",
+      "customer": "Prachi Baldua",
+      "designation": "Student",
+      "review": "I am a management student who seeks interest in content writing too. I think this is the best E-Learning  platform for an introvert like me to share her views on a specific subject matter. So here's my story: I got to know about unschool, found a course and learned various new skills. This has helped me to grow in my sphere."
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1657624548/kickstarter/138262629-man-icon-profile-member-user-perconal-symbol-vector-on-white-isolated-background-_jgvq7l.webp",
+      "customer": "Hussain Tarwala",
+      "designation": "Student",
+      "review": "These are very good courses for everybody, whatever your background, your education & your job role position. I highly recommend getting this training to change, gain & create your mindset for innovation. All mentors are giving valuable information."
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1657624548/kickstarter/138262629-man-icon-profile-member-user-perconal-symbol-vector-on-white-isolated-background-_jgvq7l.webp",
+      "customer": "Mittapalli Pavani",
+      "designation": "Student",
+      "review": "Unschool is a good platform to start with something new. This training would be a good eye-opener for people who do not know the fundamentals. Thank you Unschool!"
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1657624548/kickstarter/138262629-man-icon-profile-member-user-perconal-symbol-vector-on-white-isolated-background-_jgvq7l.webp",
+      "customer": "Prasanna Mallipudi",
+      "designation": "Ethical Haking",
+      "review": "Good E- Learning Platform for learning. The courses are designed starting with basic level to Advanced concepts and the way it is taught is quite insightful . Projects are also very useful to achieve further levels of confidence. Thank You Unschool Team."
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1657624548/kickstarter/138262629-man-icon-profile-member-user-perconal-symbol-vector-on-white-isolated-background-_jgvq7l.webp",
+      "customer": "Aakanksha Murarka",
+      "designation": "Student",
+      "review": "I am Aakanksha Murarka and I am extremely thankful to Unschool for giving me a platform to learn a bunch of new courses and help me pursue my dreams through them. In Unschool, the schooling is much more fun than it usually is and I enjoyed it a lot."
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1657624548/kickstarter/138262629-man-icon-profile-member-user-perconal-symbol-vector-on-white-isolated-background-_jgvq7l.webp",
+      "customer": "Pradnya Todankar",
+      "designation": "Earth Ambassador at ICCE",
+      "review": "I was exploring new things, I searched many online education platforms for a course that would benefit me for the rest of my life, and then I heard about Unschool from a friend. Since then I started my journey at Unschool in May, it has been a great experience. "
+    }
+  ]
+}

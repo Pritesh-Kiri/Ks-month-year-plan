@@ -1,0 +1,77 @@
+{
+  "CoachData": [
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660212043/kickstarter/coaches/Nikanksha_1_invyeh.png",
+      "Coachname": "Nikanksha Jain",
+      "title": "Data Science",
+      "logo": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660215237/kickstarter/coaches/logo/Frame_11_ievtnq.png"
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660212042/kickstarter/coaches/Miguel_1_j4kl1r.png",
+      "Coachname": "Miguel Magalhães",
+      "title": "Marketing Management",
+      "logo": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658405506/kickstarter/coach%20logos/1_d8jhbp.png"
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660212042/kickstarter/coaches/Alex_Badita_1_fkpals.png",
+      "Coachname": "Alex Badita",
+      "title": "Art of Journaling",
+      "logo": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660212170/kickstarter/coaches/logo/Frame_8_uuvlhz.png"
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660212042/kickstarter/coaches/Priya_dqxjnm.png",
+      "Coachname": "Priya Ahluwalia",
+      "title": "Operations Management",
+      "logo": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660215313/kickstarter/coaches/logo/Frame_9_ilgiyx.png"
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660212042/kickstarter/coaches/Louise_1_yu198v.png",
+      "Coachname": "Louise Moseeline",
+      "title": "Career planning",
+      "logo": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660212169/kickstarter/coaches/logo/Frame_5_eslbt0.png"
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660212043/kickstarter/coaches/Zahin_hli9hv.png",
+      "Coachname": "Zahin Hussain",
+      "title": "Product Development",
+      "logo": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660212169/kickstarter/coaches/logo/Frame_7_fecfss.png"
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660212042/kickstarter/coaches/Kunal_Newar_1_yeqtjj.png",
+      "Coachname": "Kunal Newar",
+      "title": "Magic",
+      "logo": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660212169/kickstarter/coaches/logo/Frame_3_i6f74k.png"
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1658400680/kickstarter/coaches/Thushar_Dhyani_naler6.png",
+      "Coachname": "Tushar Dhyani",
+      "title": "Artificial Intelligence",
+      "logo": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660212170/kickstarter/coaches/logo/Frame_6_dkx5in.png"
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660212043/kickstarter/coaches/Nishitha_Gehija_bfoitv.png",
+      "Coachname": "Nishtha Gehija",
+      "title": "Content writing",
+      "logo": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660212169/kickstarter/coaches/logo/Frame_1_cnkd6k.png"
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660212042/kickstarter/coaches/Aruna_Shekar_1_yye62q.png",
+      "Coachname": "Aruna Shekar",
+      "title": "Design Thinking",
+      "logo": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660215236/kickstarter/coaches/logo/Frame_12_zs6v5g.png"
+    },
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660298214/kickstarter/coaches/Himanshu_rtvqdj.png",
+      "Coachname": "Himanshu Raghani",
+      "title": "Stock Market & Finance",
+      "logo": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660212169/kickstarter/coaches/logo/Frame_1_cnkd6k.png"
+    },
+
+    {
+      "img": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660212043/kickstarter/coaches/Sid_Baliga_qmsvdq.png",
+      "Coachname": "Sid Balliga",
+      "title": "Art of selling",
+      "logo": "https://res.cloudinary.com/di3tuzgef/image/upload/v1660212169/kickstarter/coaches/logo/Frame_2_py9kjy.png"
+    }
+  ]
+}
