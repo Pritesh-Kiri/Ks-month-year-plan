@@ -19,13 +19,13 @@ const Footer = () => {
           <div className="footer-column">
             <h1 className="footer-title">Community</h1>
             <div className="footer-links-container">
-              <a href="/about" className="footer-link">
+              <a href="/" className="footer-link">
                 Intern with us
               </a>
-              <a href="/contact" className="footer-link">
+              <a href="/" className="footer-link">
                 Hire from us
               </a>
-              <a href="/community-program" className="footer-link">
+              <a href="/" className="footer-link">
                 Unschool for business
               </a>
             </div>
@@ -34,10 +34,10 @@ const Footer = () => {
           <div className="footer-column">
             <h1 className="footer-title">Coaching</h1>
             <div className="footer-links-container">
-              <a href="/policies/disclaimer" className="footer-link">
+              <a href="/" className="footer-link">
                 Teach with us
               </a>
-              <a href="/policies/terms_of_service" className="footer-link">
+              <a href="/" className="footer-link">
                 Partner with us
               </a>
             </div>
@@ -46,14 +46,14 @@ const Footer = () => {
           <div className="footer-column">
             <h1 className="footer-title">Courses</h1>
             <div className="footer-links-container">
-              <a href="/policies/disclaimer" className="footer-link">
+              <a href="/" className="footer-link">
                 Jobs Program
               </a>
-              <a href="/policies/terms_of_service" className="footer-link">
+              <a href="/" className="footer-link">
                 Free Courses
               </a>
 
-              <a href="/policies/terms_of_service" className="footer-link">
+              <a href="/" className="footer-link">
                 Internship Courses
               </a>
             </div>

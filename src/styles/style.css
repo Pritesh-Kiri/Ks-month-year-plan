@@ -6,12 +6,17 @@
   --subtitle-font-hero: "Lato", sans-serif;
   --mobile-title-font-size: 35px;
 }
+
+/* * {
+  background: rgb(0 100 0 / 0.1) !important;
+} */
 body,
 html {
   margin: 0;
   padding: 0;
 }
 body p,
+a,
 li,
 span {
   font-family: var(--subtitle-font-hero);
@@ -36,11 +41,11 @@ h4 {
   border-radius: 7px !important;
   padding: 1px 25px !important;
 }
-.button-container a {
+.button-container section {
   text-decoration: none;
 }
 .button p,
-.button-container a {
+.button-container section {
   width: -webkit-fit-content !important;
   width: -moz-fit-content !important;
   width: fit-content !important;
@@ -53,6 +58,18 @@ h4 {
   line-height: 30px !important;
   margin: 10px 5px !important;
 }
+#mobile {
+  display: none !important;
+}
+
+@media only screen and (max-width: 776px) {
+  #desktop {
+    display: none !important;
+  }
+  #mobile {
+    display: block !important;
+  }
+}
 /* Button styles end */
 
 /* Hero container start */
@@ -63,6 +80,7 @@ h4 {
   flex-direction: row;
   justify-content: center;
   padding: 100px;
+  align-items: center;
 }
 
 .hero-container .hero-content {
@@ -76,7 +94,16 @@ h4 {
   color: white;
   font-size: 55px;
   font-weight: 700;
-  line-height: 72px;
+  line-height: 50px;
+}
+
+.hero-container .hero-content .hero-title p {
+  color: white;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 40px;
+  margin-top: 90px;
+  margin-bottom: 65px;
 }
 
 .hero-container .hero-image img {
@@ -96,6 +123,14 @@ h4 {
     font-size: var(--mobile-title-font-size);
     font-weight: 900;
     line-height: 50px;
+  }
+  .hero-container .hero-content .hero-title p {
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 40px;
+    margin-top: 10px;
+    margin-bottom: 35px;
   }
   .hero-container .hero-content {
     display: flex;

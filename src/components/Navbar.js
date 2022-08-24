@@ -247,7 +247,7 @@ const Navbar = class extends React.Component {
                   </div> */}
                   <div className="nav-item menu-header">
                     <form className="form-inline my-2 my-lg-0" action="#">
-                      <button
+                      {/* <button
                         className="btn sign-in-btn my-2 my-sm-0"
                         type="submit"
                         onClick={() =>
@@ -255,7 +255,7 @@ const Navbar = class extends React.Component {
                         }
                       >
                         APPLY NOW
-                      </button>
+                      </button> */}
                     </form>
                   </div>
                   {/* <div className="nav-item">

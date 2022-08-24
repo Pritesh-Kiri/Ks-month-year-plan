@@ -8,7 +8,7 @@ const ImageDividerone = ({ item }) => {
         <div className="ImageDividerInner">
           <h3>{item.title}</h3>
           <p>{item.subtitle}</p>
-          <Button text={"Start Today"} source={"https://rzp.io/l/61RdShX"} />
+          <Button text={"Start Today"} source={"/"} />
         </div>
       </div>
     </div>

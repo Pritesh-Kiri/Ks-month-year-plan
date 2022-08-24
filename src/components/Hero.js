@@ -1,21 +1,25 @@
 import React from "react"
-import Button from "./Button"
+import ButtonLink from "./ButtonLink"
 // import HeroGIF from "../../static/Hero-gif.gif"
 const Hero = () => {
   return (
     <div className="hero-container">
       <div className="hero-content">
         <div className="hero-title">
-          <h1>Explore thousands of industry relevant skill courses.</h1>
+          <h1>Learn without limits.</h1>
+          <p>
+            150+ online video courses with new additions published every month.
+          </p>
         </div>
-        <Button text={"Enroll now"} source={"https://rzp.io/l/61RdShX"} />
+        <ButtonLink text={"Enroll Now"} mode={"desktop"} />
       </div>
       <div className="hero-image">
         <img
-          src="https://res.cloudinary.com/di3tuzgef/image/upload/v1661265624/kickstarter/hero/2400x1350-01_1_qmvvqu.jpg"
+          src="https://res.cloudinary.com/di3tuzgef/image/upload/v1661337418/kickstarter/hero/Artboard_1_uy6b5w.png"
           alt="Hero GIF coaches"
         />
       </div>
+      <ButtonLink text={"Enroll Now"} mode={"mobile"} />
     </div>
   )
 }

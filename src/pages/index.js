@@ -10,7 +10,7 @@ import Courses from "../components/Courses"
 import DividerContainer from "../components/DividerContainer"
 import Journey from "../components/Journey"
 import Coaches from "../components/Coaches"
-
+import Subscribtion from "../components/Subscribtion"
 import Testimonials from "../components/Testimonials"
 import Numbers from "../components/Numbers"
 import Business from "../components/Business"
@@ -50,6 +50,7 @@ export default function Home() {
       <DividerContainer />
       <Journey />
       <Coaches />
+      <Subscribtion />
       <Testimonials />
       <Numbers />
       <Business />

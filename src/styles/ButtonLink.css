@@ -1,0 +1,41 @@
+.button,
+.button-container {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+.button {
+  background-color: var(--yellow);
+  border-radius: 7px;
+  padding: 1px 25px;
+}
+.button-container .link {
+  text-decoration: none;
+}
+.button p,
+.button-container .link {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+.button p {
+  color: var(--black-bg);
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+  margin: 10px 5px;
+}
+
+#mobile {
+  display: none !important;
+}
+
+@media only screen and (max-width: 776px) {
+  #desktop {
+    display: none !important;
+  }
+  #mobile {
+    display: block !important;
+  }
+}

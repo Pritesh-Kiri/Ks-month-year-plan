@@ -1,0 +1,191 @@
+.subs-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.subs-container .subs-card {
+  max-width: 600px;
+  min-width: 565px;
+  box-shadow: 2px 2px 8px grey;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0px;
+}
+
+.subs-container .subs-card .subs-card-top {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.subs-container .subs-card .subs-card-top .top-mode {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.subs-container .subs-card .subs-card-top .top-mode.top-mode-1.active,
+.subs-container .subs-card .subs-card-top .top-mode.top-mode-2.active {
+  background-color: #1d569f;
+  color: white;
+  transition: all 0.3s ease-out;
+}
+.subs-container .subs-card .subs-card-bottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.subs-container .subs-card .subs-card-bottom .bottom-mode.bottom-mode-1 {
+  display: none;
+}
+
+.subs-container .subs-card .subs-card-bottom .bottom-mode.bottom-mode-1.show {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.subs-container .subs-card .subs-card-bottom .bottom-mode.bottom-mode-2 {
+  display: none;
+}
+
+.subs-container .subs-card .subs-card-bottom .bottom-mode.bottom-mode-2.show {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.subs-container .subs-card .subs-card-bottom .bottom-mode {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.subs-container .subs-card .subs-card-bottom .bottom-mode {
+  width: 100%;
+}
+
+.subs-container .subs-card .subs-card-bottom .bottom-mode h3 {
+  font-size: 35px;
+  margin-bottom: 5px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.subs-container .subs-card .subs-card-bottom .bottom-mode .subs-title p {
+  margin-top: 0px;
+}
+
+.subs-container .subs-card .subs-card-bottom .bottom-mode .mode-usp {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.subs-container .subs-card .subs-card-bottom .bottom-mode .mode-usp .usp-point {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+}
+
+.subs-container
+  .subs-card
+  .subs-card-bottom
+  .bottom-mode
+  .mode-usp
+  .usp-point
+  img {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  margin-left: 60px;
+}
+.subs-container .subs-card .subs-card-bottom .bottom-mode .mode-price {
+  width: 100%;
+}
+.subs-container .subs-card .subs-card-bottom .bottom-mode .mode-price p {
+  width: 100%;
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+.subs-container .subs-card .subs-card-bottom .bottom-mode .mode-price p span {
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.67);
+}
+
+.subs-container .subs-card .subs-card-bottom .bottom-mode .mode-subs-button {
+  margin-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.subs-container .subs-card .subs-card-bottom .bottom-mode .mode-subs-button a {
+  background-color: #1d569f;
+  font-size: 25px;
+  color: white;
+  padding: 10px 5px;
+  border-radius: 10px;
+  text-align: center;
+  width: 200px;
+  text-decoration: none;
+  margin: 20px 0px;
+}
+
+.subs-container
+  .subs-card
+  .subs-card-bottom
+  .bottom-mode
+  .mode-subs-button
+  span {
+  font-size: 15px;
+}
+.subs-container .subs-card .subs-card-bottom .bottom-mode-2 {
+  display: none;
+}
+
+@media only screen and (max-width: 776px) {
+    
+  .subs-container .subs-card {
+    max-width: 400px;
+    min-width: 300px;
+    box-shadow: 2px 2px 8px rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0px;
+  }
+
+  .subs-container
+    .subs-card
+    .subs-card-bottom
+    .bottom-mode
+    .mode-usp
+    .usp-point
+    img {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    margin-left: 30px;
+  }
+}

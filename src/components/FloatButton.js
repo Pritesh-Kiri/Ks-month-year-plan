@@ -1,4 +1,5 @@
 import React, { useState } from "react"
+import scrollTo from "gatsby-plugin-smoothscroll"
 
 const FloatButton = () => {
   const [show, setshow] = useState(false)
@@ -25,9 +26,11 @@ const FloatButton = () => {
       }
     >
       <div className={show || mshow ? "float-btn show" : "float-btn"}>
-        <div onClick={() => window.open("https://rzp.io/l/61RdShX", "_blank")}>
+        {/* <div onClick={() => window.open("https://rzp.io/l/61RdShX", "_blank")}>
           Apply now
-        </div>
+        </div> */}
+
+        <div onClick={() => scrollTo("#subscription")}>Enroll Now</div>
       </div>
     </div>
   )
