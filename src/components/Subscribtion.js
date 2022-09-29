@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 import "../styles/subscription.css"
-
+import { StaticImage } from "gatsby-plugin-image"
 const Subscribtion = () => {
   const [active, setactive] = useState(false)
   return (
@@ -75,6 +75,20 @@ const Subscribtion = () => {
               <a href="https://rzp.io/l/al6Zcnx" target="__blank__">
                 Enroll Now
               </a>
+              <div className="ir-mobikwik-content">
+                Pay with wallet&nbsp;
+                <span>
+                  <StaticImage
+                    src="../images/Mobikwik-Logo.png"
+                    alt="MobiKwik Logo"
+                    placeholder="blurred"
+                    layout="fixed"
+                    width={120}
+                    className="ir-mobikwik-image"
+                  />
+                </span>
+                &nbsp;to get up to 1200 cashback on minimum purchase of 3999/-
+              </div>
               <span>Save ₹3000 by choosing 12 months plan</span>
             </div>
           </div>
@@ -127,6 +141,20 @@ const Subscribtion = () => {
               <a href="https://rzp.io/l/bQ29YXT" target="__blank__">
                 Enroll Now
               </a>
+              <div className="ir-mobikwik-content">
+                Pay with wallet&nbsp;
+                <span>
+                  <StaticImage
+                    src="../images/Mobikwik-Logo.png"
+                    alt="MobiKwik Logo"
+                    placeholder="blurred"
+                    layout="fixed"
+                    width={120}
+                    className="ir-mobikwik-image"
+                  />
+                </span>
+                &nbsp;to get up to 1200 cashback on minimum purchase of 3999/-
+              </div>
               <span>You saved ₹3000 by choosing 12 months plan</span>
             </div>
           </div>

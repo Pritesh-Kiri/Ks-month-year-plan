@@ -164,7 +164,6 @@
 }
 
 @media only screen and (max-width: 776px) {
-    
   .subs-container .subs-card {
     max-width: 400px;
     min-width: 300px;
@@ -188,4 +187,18 @@
     margin-right: 10px;
     margin-left: 30px;
   }
+}
+
+.ir-mobikwik-content {
+  line-height: 2.2rem;
+  margin-bottom: 25px;
+  width: 80%;
+  text-align: center;
+  
+}
+
+.ir-mobikwik-image {
+  display: inline-block;
+  position: relative;
+  top: 15px;
 }

@@ -18,7 +18,8 @@ html {
 body p,
 a,
 li,
-span {
+span,
+.ir-mobikwik-content {
   font-family: var(--subtitle-font-hero);
 }
 .float-btn,
