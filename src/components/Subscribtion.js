@@ -76,18 +76,20 @@ const Subscribtion = () => {
                 Enroll Now
               </a>
               <div className="ir-mobikwik-content">
-                Pay with wallet&nbsp;
+                Pay with&nbsp;
                 <span>
                   <StaticImage
                     src="../images/Mobikwik-Logo.png"
                     alt="MobiKwik Logo"
                     placeholder="blurred"
                     layout="fixed"
-                    width={120}
+                    width={100}
+                    quality={100}
                     className="ir-mobikwik-image"
                   />
                 </span>
-                &nbsp;to get up to 1200 cashback on minimum purchase of 3999/-
+                &nbsp;wallet to get up to 1200 cashback on minimum purchase of
+                3999/-
               </div>
               <span>Save ₹3000 by choosing 12 months plan</span>
             </div>
@@ -142,18 +144,21 @@ const Subscribtion = () => {
                 Enroll Now
               </a>
               <div className="ir-mobikwik-content">
-                Pay with wallet&nbsp;
+                Pay with&nbsp;
                 <span>
                   <StaticImage
                     src="../images/Mobikwik-Logo.png"
                     alt="MobiKwik Logo"
                     placeholder="blurred"
                     layout="fixed"
-                    width={120}
+                    width={100}
                     className="ir-mobikwik-image"
+                    quality={100}
                   />
+                  <img src="../images/Mobikwik.png" alt="" />
                 </span>
-                &nbsp;to get up to 1200 cashback on minimum purchase of 3999/-
+                &nbsp;wallet to get up to 1200 cashback on minimum purchase of
+                3999/-
               </div>
               <span>You saved ₹3000 by choosing 12 months plan</span>
             </div>
