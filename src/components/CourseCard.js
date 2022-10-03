@@ -1,5 +1,5 @@
 import React from "react"
-const CourseCard = ({ item }) => {
+const Coursecard = ({ item }) => {
   return (
     <section className="course-card">
       <div className="course-img">
@@ -13,4 +13,4 @@ const CourseCard = ({ item }) => {
   )
 }
 
-export default CourseCard
+export default Coursecard
