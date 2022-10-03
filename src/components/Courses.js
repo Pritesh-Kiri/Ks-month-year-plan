@@ -165,7 +165,7 @@ const Courses = () => {
         <section className="course-slider">
           <Slider {...settings}>
             {filterItems.map((item, index) => (
-              <Coursecard key={index} item={item} />
+              <CourseCard key={index} item={item} />
             ))}
           </Slider>
         </section>
