@@ -39,6 +39,10 @@ export default function Home() {
           href="https://www.unschool.in/img/apple-touch-icon.png"
           sizes="256x256"
         />
+        <script
+          src="https://js.chargebee.com/v2/chargebee.js"
+          data-cb-site="unschool"
+        ></script>
       </Helmet>
       <FloatButton />
       <Navbar />
