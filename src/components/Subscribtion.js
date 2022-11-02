@@ -103,7 +103,7 @@ const Subscribtion = () => {
                   3999/-
                 </div> */}
                 <span>
-                  Use code <strong>DIWALI</strong> during checkout
+                  Use code <strong>WINTEROFF</strong> during checkout
                 </span>
               </div>
             </div>
@@ -181,7 +181,7 @@ const Subscribtion = () => {
                 </div> */}
                 <span>
                   {" "}
-                  Use code <strong>DIWALI</strong> during checkout
+                  Use code <strong>WINTEROFF</strong> during checkout
                 </span>
               </div>
             </div>
